@@ -4,13 +4,14 @@ Atualmente, procuro tentar diversificar os meus estudos em machine learning, ban
 
 ### Frameworks e tecnologias 💻
 
-<img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width=50 height=50 />  <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width=50 height=50 /> 
+<img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width=50 height=50 />  <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width=50 height=50 /> 
           
 ### Estou aprendendo 📖
 <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=50 height=50 /> 
 
 ### Interesses 🤩
-<img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 height=50 /> 
+<img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50 /> <img loading='lazy' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width=50 height=50 /> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon-web-services"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50 />
+          
 
 
 <!--
